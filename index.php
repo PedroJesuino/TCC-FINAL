@@ -94,7 +94,7 @@
     <div class="container-header">
       <h1>Para artista</h5>
         <h2>Se você é um artista, e quer uma forma de divulgar sua obra, mas não sabe como, venha descobrir sobre o nosso projeto. Clicando no botão abaixo.</h2>
-        <a href="https://www.youtube.com/watch?v=-KelamrVNkw" class="glightbox play-btn mb-4"></a>
+        <a href="https://www.youtube.com/watch?v=sTfQ5eEq074" class="glightbox play-btn mb-4"></a>
     </div>
   </div>
 
