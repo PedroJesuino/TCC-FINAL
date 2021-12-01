@@ -1,0 +1,71 @@
+#hidden{
+    display: none;
+}
+
+.div-aprova h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.div-aprova{
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    
+
+    padding: 15px;
+    box-shadow: 1px 1px 5px rgb(110, 110, 110);
+    margin: auto 0;
+    
+}
+.div-aprova div label
+{
+    font-size: 18px;
+}
+.div-aprova div label p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div-aprova form div .div-img
+{
+    border-radius: 4px;
+    width: 350px;
+    height: 270px;
+    overflow: hidden;
+    background-color: rgb(150, 62, 223);
+}
+.div-aprova form 
+{
+    border-radius: 5px;
+}
+
+.div-aprova form div .div-img img
+{
+    width: 100%;   
+
+}
+
+.div-aprova form div div{
+    margin-top: 5px;
+    
+    
+
+}
+.div-aprova form div div button{
+    background-color: rgb(150, 62, 223);
+    border-style: none;
+    border-radius: 5px;
+    color: #fff;
+    
+}
+ .aprov-click{
+    background-color: rgb(150, 62, 223);
+    border-style: none;
+    border-radius: 5px;
+    color: #fff;   
+    
+}
+.contato label
+{
+    margin-left: 10px;
+
+}

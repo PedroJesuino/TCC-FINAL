@@ -1,0 +1,110 @@
+#hidden {display: none;}
+label {font-size: small;}
+h3 { margin: 50px;}
+
+.div-aprova h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.div-aprova{
+    position: relative;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    width: 500px;
+    padding: 15px;
+    box-shadow: 1px 1px 5px rgb(110, 110, 110);
+    margin: 0 auto;
+    
+}
+.div-aprova form div .div-img{
+    border-radius: 4px;
+    width: 190px;
+    height: 160px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin:  0 auto;   
+    background-color: #fff;
+    box-shadow: 1px 1px 5px rgb(110, 110, 110);
+    
+
+}
+
+.div-aprova div label{
+    font-size: 18px;
+    
+
+}
+.div-aprova div label p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+.div-aprova form {
+    border-radius: 5px;
+}
+
+.div-aprova form div .div-img img{
+    width: 100%;
+    height: 100%;
+ 
+    background-position: center;
+ 
+    
+
+}
+
+.div-aprova form div div{
+    margin-top: 5px;
+    
+    
+
+}
+.div-aprova form div div button{
+    background-color: rgb(150, 62, 223);
+    border-style: none;
+    border-radius: 5px;
+    color: #fff;
+   
+   
+    
+
+}
+ .aprov-click{
+    grid-column: auto;
+    background-color: rgb(150, 62, 223);
+    border-style: none;
+    border-radius: 5px;
+    color: #fff;
+    margin-left: 2px;
+
+
+    
+}
+.rede-social{
+    display: flex;
+    justify-content: center;
+    white-space: normal;
+    margin: 4;
+}
+.rede-social a{
+    margin: 5px;
+
+}
+.rede-social a .link{
+    height: 35px;
+    width: 35px;
+    background-color: rgb(150, 62, 223);
+    border-radius: 10px;
+}
+.contato{
+    margin: 15px;
+}
+
+.button-container{
+    margin: 5px;
+    display: flex;
+    justify-content: end;
+
+}

@@ -1,0 +1,33 @@
+
+.input-name{
+    border: none;
+    border-radius: 10px;
+    width: 400px;
+    height: 38px;
+ 
+  
+    background-color: rgb(255, 255, 255);
+   
+}
+.input-name::placeholder{
+    padding-left: 15px;
+    border: none;
+    border-radius: 10px;
+    width: 400px;
+    height: 38px;
+ 
+  
+    background-color: rgb(255, 255, 255);
+   
+}
+.textarea-desc{
+  
+    border: none;
+    border-radius: 10px;
+    width: 500px;
+    height: 125px;
+    margin-top: 10px;
+}
+.textarea-desc::placeholder{
+  padding-left: 15px;
+}
